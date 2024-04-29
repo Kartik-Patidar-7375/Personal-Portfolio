@@ -1,12 +1,24 @@
-# Personal-Portfolio
-<br>
-This is a Template of personal portfolio.
-<br>
-<br>
-Designer:- Kartik Patidar
-<br>
-Developer:- Kartik Patidar
-<br>
-Copyright Code with Kartik
-<br>
-For Full Access Email at codewithkartik41@gmail.com.
+Code By Kartik Patidar.
+
+
+
+#Personal_Portfolio. 
+
+
+
+
+- Can Only be used for Learning Purpose.
+
+- Compatible with all mobile devices and with Desktops.
+
+- Responsive Personal Portfolio Website HTML,  CSS  & JavaScript.
+
+- Contains animations when scrolling.
+
+- Smooth scrolling in each section.
+
+- total Code lines are 1,824.
+
+
+
+#Copyright 2024 All Rights Reserved.
