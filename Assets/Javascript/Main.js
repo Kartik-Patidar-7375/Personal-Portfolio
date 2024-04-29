@@ -1,3 +1,12 @@
+// Code With Kartik
+
+
+
+//  All Rights Reserved 
+
+
+
+//  Code With Kartik 
 
 const showMenu = (toggleId, navId) => {
 
@@ -105,3 +114,5 @@ sr.reveal('.home__social-icon',{ interval: 200});
 
 
 sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
+
+// Code Ends Here

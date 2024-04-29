@@ -1,3 +1,13 @@
+<!-- Code With Kartik -->
+
+
+
+<!-- All Rights Reserved -->
+
+
+
+<!-- Code With Kartik -->
+
 <?php   
 
 if (isset($_POST['email'])) {
@@ -125,3 +135,5 @@ if (isset($_POST['email'])) {
 }
 
 ?>
+
+<!-- Code Ends Here -->
