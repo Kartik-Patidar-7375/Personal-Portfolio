@@ -6,7 +6,7 @@ Code By Kartik Patidar.
 
 
 
-
+   
 - Can Only be used for Learning Purpose.
 
 - Compatible with all mobile devices and with Desktops.
@@ -19,6 +19,7 @@ Code By Kartik Patidar.
 
 - total Code lines are 1,824.
 
+- For full access Email me at codewithkartik41@gmail.com.
 
 
 #Copyright 2024 All Rights Reserved.
